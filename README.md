@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cryp70m4n</h1>
 <h3 align="center">GNU/Linux enthusiast, Digital forensics enthusiast, Math geek</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryp70m4n" alt="cryp70m4n" /></a> </p>
-
 - 🔭 I’m currently working on [Simple](https://www.github.com/cryp70m4n/simple)
 
 - 🌱 I’m currently learning **Web penetration testing**
